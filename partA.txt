@@ -1,0 +1,43 @@
+/u/cstinson/cs429:
+total 8
+drwx------ 5 cstinson under 4096 Jan 26 13:19 writing
+drwx------ 7 cstinson under 4096 Jan 26 13:19 projects
+
+/u/cstinson/cs429/writing:
+total 12
+drwx------ 2 cstinson under 4096 Jan 26 13:19 task3
+drwx------ 2 cstinson under 4096 Jan 26 13:19 task2
+drwx------ 2 cstinson under 4096 Jan 26 13:19 task1
+
+/u/cstinson/cs429/writing/task3:
+total 0
+
+/u/cstinson/cs429/writing/task2:
+total 0
+
+/u/cstinson/cs429/writing/task1:
+total 0
+
+/u/cstinson/cs429/projects:
+total 20
+drwx------ 2 cstinson under 4096 Jan 26 13:19 proj5
+drwx------ 2 cstinson under 4096 Jan 26 13:19 proj4
+drwx------ 2 cstinson under 4096 Jan 26 13:18 proj3
+drwx------ 2 cstinson under 4096 Jan 26 13:18 proj2
+drwx------ 3 cstinson under 4096 Jan 26 14:37 proj1
+
+/u/cstinson/cs429/projects/proj5:
+total 0
+
+/u/cstinson/cs429/projects/proj4:
+total 0
+
+/u/cstinson/cs429/projects/proj3:
+total 0
+
+/u/cstinson/cs429/projects/proj2:
+total 0
+
+/u/cstinson/cs429/projects/proj1:
+total 0
+-rw------- 1 cstinson under 0 Jan 26 14:37 partA.txt

@@ -1,0 +1,34 @@
+[2022-01-25 23:41:06.403] [exthost] [info] Extension host with pid 4914 started
+[2022-01-25 23:41:06.408] [exthost] [info] Lock '/u/cstinson/.vscode-server/data/User/workspaceStorage/7b60651d63b7f27fbf265b46ea38c6ec/vscode.lock': Lock acquired.
+[2022-01-25 23:41:06.510] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-25 23:41:06.517] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-25 23:41:06.681] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-25 23:41:06.773] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-25 23:41:06.794] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-25 23:41:06.798] [exthost] [info] Eager extensions activated
+[2022-01-25 23:41:10.813] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-01-25 23:44:35.689] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2022-01-25 23:46:37.457] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugInitialConfigurations'
+[2022-01-25 23:52:52.236] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: '*'
+[2022-01-26 00:02:27.146] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-01-26 00:02:27.149] [exthost] [info] Lock '/u/cstinson/.vscode-server/data/User/workspaceStorage/7b60651d63b7f27fbf265b46ea38c6ec/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-01-26 00:02:27.159] [exthost] [error] TypeError: Cannot read property 'timeTelemetryCollector' of undefined
+	at Object.deactivate (/u/cstinson/.vscode-server/extensions/ms-vscode.cpptools-1.7.1/dist/main.js:49395:13)
+	at Object.deactivate (/u/cstinson/.vscode-server/extensions/ms-vscode.cpptools-1.7.1/dist/main.js:54453:27)
+	at v._deactivate (/u/cstinson/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:100:11513)
+	at /u/cstinson/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:100:10061
+	at Array.map (<anonymous>)
+	at v.deactivateAll (/u/cstinson/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:100:10049)
+	at p.terminate (/u/cstinson/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:104:735)
+	at r (/u/cstinson/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:114:36400)
+	at /u/cstinson/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:114:34278
+	at u.fire (/u/cstinson/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at r.fire (/u/cstinson/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:74:18942)
+	at n._receiveMessage (/u/cstinson/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:74:23523)
+	at /u/cstinson/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:74:21057
+	at u.fire (/u/cstinson/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at w.acceptChunk (/u/cstinson/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:74:15770)
+	at /u/cstinson/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:74:14900
+	at u.fire (/u/cstinson/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:66:1712)
+	at s._processReadQueue (/u/cstinson/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/out/vs/server/remoteExtensionHostProcess.js:114:21295)
+[2022-01-26 00:02:27.160] [exthost] [info] Extension host with pid 4914 exiting with code 0

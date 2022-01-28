@@ -1,0 +1,37 @@
+[2022-01-26 14:26:40.810] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-01-26 14:26:40.810] [remoteagent] [info] Extension host agent started.
+[2022-01-26 14:26:41.006] [remoteagent] [info] [127.0.0.1][b279e66e][ManagementConnection] New connection established.
+[2022-01-26 14:26:41.153] [remoteagent] [info] [127.0.0.1][033ab3a0][ExtensionHostConnection] New connection established.
+[2022-01-26 14:26:41.185] [remoteagent] [info] [127.0.0.1][033ab3a0][ExtensionHostConnection] <10751> Launched Extension Host Process.
+[2022-01-26 14:32:12.980] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-26 14:32:20.755] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-01-26 14:41:06.372] [remoteagent] [info] [127.0.0.1][b279e66e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-26 14:41:08.606] [remoteagent] [info] [127.0.0.1][2200e88b][ManagementConnection] New connection established.
+[2022-01-26 14:41:08.853] [remoteagent] [info] [127.0.0.1][b8c53171][ExtensionHostConnection] New connection established.
+[2022-01-26 14:41:08.871] [remoteagent] [info] [127.0.0.1][b8c53171][ExtensionHostConnection] <13853> Launched Extension Host Process.
+[2022-01-26 14:46:08.942] [remoteagent] [info] [127.0.0.1][033ab3a0][ExtensionHostConnection] <10751> Extension Host Process exited with code: 0, signal: null.
+[2022-01-26 14:51:33.234] [remoteagent] [info] [127.0.0.1][2200e88b][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-01-26 14:52:38.962] [remoteagent] [info] [127.0.0.1][2200e88b][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-01-26 14:52:38.963] [remoteagent] [info] [127.0.0.1][5698477b][ManagementConnection] New connection established.
+[2022-01-26 14:52:39.221] [remoteagent] [info] [127.0.0.1][c03c4226][ExtensionHostConnection] New connection established.
+[2022-01-26 14:52:39.228] [remoteagent] [info] [127.0.0.1][c03c4226][ExtensionHostConnection] <14346> Launched Extension Host Process.
+[2022-01-26 14:57:39.166] [remoteagent] [info] [127.0.0.1][b8c53171][ExtensionHostConnection] <13853> Extension Host Process exited with code: 0, signal: null.
+[2022-01-26 14:57:39.178] [remoteagent] [info] [127.0.0.1][2200e88b][ManagementConnection] The reconnection short grace time of 5m has expired, so the connection will be disposed.
+[2022-01-26 15:30:04.956] [remoteagent] [info] [127.0.0.1][5698477b][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-01-26 15:51:24.533] [remoteagent] [info] [127.0.0.1][5698477b][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-01-26 15:51:24.534] [remoteagent] [info] [127.0.0.1][5698477b][ManagementConnection] The client has reconnected.
+[2022-01-26 15:51:24.609] [remoteagent] [info] [127.0.0.1][c03c4226][ExtensionHostConnection] The client has reconnected.
+[2022-01-26 17:35:31.591] [remoteagent] [info] [127.0.0.1][5698477b][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-01-26 20:35:39.746] [remoteagent] [info] [127.0.0.1][5698477b][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2022-01-26 20:35:43.763] [remoteagent] [info] [127.0.0.1][c03c4226][ExtensionHostConnection] <14346> Extension Host Process exited with code: 0, signal: null.
+[2022-01-26 20:35:43.764] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-01-26 20:40:43.766] [remoteagent] [info] Last EH closed, shutting down

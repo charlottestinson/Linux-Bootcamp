@@ -1,0 +1,7 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Charlotte Stinson
+	email = charlottestinson@utexas.edu
+# Please adapt and uncomment the following lines:
+#	name = Charlotte Stinson
+#	email = cstinson@cs.utexas.edu

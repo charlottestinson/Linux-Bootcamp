@@ -1,0 +1,18 @@
+The use of .forward files is not supported at UTCS.
+
+If you are trying to get your mail forwarded to another
+address, log in with your EID here:
+
+  https://apps.cs.utexas.edu/udb/update/
+
+Warning: we cannot forward email after your account has
+expired.
+
+If you are trying to use a .forward file to automate the
+preprocessing of incoming mail using a filter, that is also
+unsupported. The procmail service is available for this
+purpose. Read more at
+
+  http://www.cs.utexas.edu/facilities/faq
+
+For more information, contact "udb@cs.utexas.edu" ...

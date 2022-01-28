@@ -1,0 +1,125 @@
+[2022-01-25 23:40:34.058] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-01-25 23:40:34.058] [remoteagent] [info] Extension host agent started.
+[2022-01-25 23:40:34.334] [remoteagent] [info] [127.0.0.1][cb076e5e][ManagementConnection] New connection established.
+[2022-01-25 23:40:34.380] [remoteagent] [info] [127.0.0.1][4cac0135][ExtensionHostConnection] New connection established.
+[2022-01-25 23:40:34.392] [remoteagent] [info] [127.0.0.1][4cac0135][ExtensionHostConnection] <4874> Launched Extension Host Process.
+[2022-01-25 23:41:03.231] [remoteagent] [info] [127.0.0.1][cb076e5e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-25 23:41:03.242] [remoteagent] [info] [127.0.0.1][4cac0135][ExtensionHostConnection] <4874> Extension Host Process exited with code: 0, signal: null.
+[2022-01-25 23:41:03.242] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-01-25 23:41:05.420] [remoteagent] [info] [127.0.0.1][b901518d][ManagementConnection] New connection established.
+[2022-01-25 23:41:05.458] [remoteagent] [info] [127.0.0.1][744186e6][ExtensionHostConnection] New connection established.
+[2022-01-25 23:41:05.469] [remoteagent] [info] [127.0.0.1][744186e6][ExtensionHostConnection] <4914> Launched Extension Host Process.
+[2022-01-25 23:46:01.811] [remoteagent] [info] Installing extension: oleg-shilo.cs-script
+[2022-01-25 23:46:02.474] [remoteagent] [info] Downloaded extension: oleg-shilo.cs-script /u/cstinson/.vscode-server/data/CachedExtensionVSIXs/oleg-shilo.cs-script-2.0.1
+[2022-01-25 23:46:03.263] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-01-25 23:46:03.807] [remoteagent] [info] Extracted extension to /u/cstinson/.vscode-server/extensions/.d9dcd364-895f-413d-b026-b1f0f15fcdcf: oleg-shilo.cs-script
+[2022-01-25 23:46:03.822] [remoteagent] [info] Renamed to /u/cstinson/.vscode-server/extensions/oleg-shilo.cs-script-2.0.1
+[2022-01-25 23:46:03.826] [remoteagent] [info] Extracting completed. oleg-shilo.cs-script
+[2022-01-25 23:46:03.826] [remoteagent] [info] Extension installed successfully: oleg-shilo.cs-script
+[2022-01-25 23:46:16.325] [remoteagent] [info] Installing extension: jeremyrajan.file-script-runner
+[2022-01-25 23:46:16.677] [remoteagent] [info] Downloaded extension: jeremyrajan.file-script-runner /u/cstinson/.vscode-server/data/CachedExtensionVSIXs/jeremyrajan.file-script-runner-1.1.2
+[2022-01-25 23:46:16.708] [remoteagent] [info] Extracted extension to /u/cstinson/.vscode-server/extensions/.9e20dc82-fa38-438f-ae45-410b0ba6e119: jeremyrajan.file-script-runner
+[2022-01-25 23:46:16.717] [remoteagent] [info] Renamed to /u/cstinson/.vscode-server/extensions/jeremyrajan.file-script-runner-1.1.2
+[2022-01-25 23:46:16.722] [remoteagent] [info] Extracting completed. jeremyrajan.file-script-runner
+[2022-01-25 23:46:16.722] [remoteagent] [info] Extension installed successfully: jeremyrajan.file-script-runner
+[2022-01-25 23:52:49.543] [remoteagent] [info] Installing extension: ms-vscode.cpptools
+[2022-01-25 23:52:49.982] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools /u/cstinson/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-1.7.1
+[2022-01-25 23:52:51.421] [remoteagent] [info] Extracted extension to /u/cstinson/.vscode-server/extensions/.82e1e25a-bb34-4254-8e09-ea4e2a607458: ms-vscode.cpptools
+[2022-01-25 23:52:51.433] [remoteagent] [info] Renamed to /u/cstinson/.vscode-server/extensions/ms-vscode.cpptools-1.7.1
+[2022-01-25 23:52:51.437] [remoteagent] [info] Extracting completed. ms-vscode.cpptools
+[2022-01-25 23:52:51.438] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-01-25 23:52:53.842] [remoteagent] [info] Installing extension: ms-vscode.cpptools-extension-pack
+[2022-01-25 23:52:57.366] [remoteagent] [info] Installing extension: ms-vscode-remote.remote-wsl
+[2022-01-25 23:52:57.366] [remoteagent] [info] Installing extension: ms-vscode-remote.remote-containers
+[2022-01-25 23:52:57.367] [remoteagent] [info] Installing extension: ms-vscode-remote.remote-ssh
+[2022-01-25 23:52:57.368] [remoteagent] [info] Installing extension: ms-vscode.cmake-tools
+[2022-01-25 23:52:57.369] [remoteagent] [info] Installing extension: twxs.cmake
+[2022-01-25 23:52:57.370] [remoteagent] [info] Installing extension: jeff-hykin.better-cpp-syntax
+[2022-01-25 23:52:57.371] [remoteagent] [info] Installing extension: cschlosser.doxdocgen
+[2022-01-25 23:52:57.372] [remoteagent] [info] Installing extension: ms-vscode.cpptools-themes
+[2022-01-25 23:52:57.373] [remoteagent] [info] Extension is already requested to install ms-vscode.cpptools-themes
+[2022-01-25 23:52:57.373] [remoteagent] [info] Extension is already requested to install cschlosser.doxdocgen
+[2022-01-25 23:52:57.374] [remoteagent] [info] Extension is already requested to install ms-vscode.cpptools-themes
+[2022-01-25 23:52:57.375] [remoteagent] [info] Extension is already requested to install jeff-hykin.better-cpp-syntax
+[2022-01-25 23:52:57.376] [remoteagent] [info] Extension is already requested to install cschlosser.doxdocgen
+[2022-01-25 23:52:57.377] [remoteagent] [info] Extension is already requested to install ms-vscode.cpptools-themes
+[2022-01-25 23:52:57.378] [remoteagent] [info] Extension is already requested to install twxs.cmake
+[2022-01-25 23:52:57.379] [remoteagent] [info] Extension is already requested to install jeff-hykin.better-cpp-syntax
+[2022-01-25 23:52:57.380] [remoteagent] [info] Extension is already requested to install cschlosser.doxdocgen
+[2022-01-25 23:52:57.381] [remoteagent] [info] Extension is already requested to install ms-vscode.cpptools-themes
+[2022-01-25 23:52:57.381] [remoteagent] [info] Extension is already requested to install ms-vscode.cmake-tools
+[2022-01-25 23:52:57.382] [remoteagent] [info] Extension is already requested to install twxs.cmake
+[2022-01-25 23:52:57.382] [remoteagent] [info] Extension is already requested to install jeff-hykin.better-cpp-syntax
+[2022-01-25 23:52:57.383] [remoteagent] [info] Extension is already requested to install cschlosser.doxdocgen
+[2022-01-25 23:52:57.384] [remoteagent] [info] Extension is already requested to install ms-vscode.cpptools-themes
+[2022-01-25 23:52:57.385] [remoteagent] [info] Extension is already requested to install ms-vscode-remote.remote-ssh
+[2022-01-25 23:52:57.385] [remoteagent] [info] Extension is already requested to install ms-vscode.cmake-tools
+[2022-01-25 23:52:57.386] [remoteagent] [info] Extension is already requested to install twxs.cmake
+[2022-01-25 23:52:57.387] [remoteagent] [info] Extension is already requested to install jeff-hykin.better-cpp-syntax
+[2022-01-25 23:52:57.389] [remoteagent] [info] Extension is already requested to install cschlosser.doxdocgen
+[2022-01-25 23:52:57.389] [remoteagent] [info] Extension is already requested to install ms-vscode.cpptools-themes
+[2022-01-25 23:52:57.390] [remoteagent] [info] Extension is already requested to install ms-vscode-remote.remote-containers
+[2022-01-25 23:52:57.390] [remoteagent] [info] Extension is already requested to install ms-vscode-remote.remote-ssh
+[2022-01-25 23:52:57.391] [remoteagent] [info] Extension is already requested to install ms-vscode.cmake-tools
+[2022-01-25 23:52:57.391] [remoteagent] [info] Extension is already requested to install twxs.cmake
+[2022-01-25 23:52:57.392] [remoteagent] [info] Extension is already requested to install jeff-hykin.better-cpp-syntax
+[2022-01-25 23:52:57.392] [remoteagent] [info] Extension is already requested to install cschlosser.doxdocgen
+[2022-01-25 23:52:57.394] [remoteagent] [info] Extension is already requested to install ms-vscode.cpptools-themes
+[2022-01-25 23:52:57.824] [remoteagent] [info] Downloaded extension: ms-vscode-remote.remote-ssh /u/cstinson/.vscode-server/data/CachedExtensionVSIXs/ms-vscode-remote.remote-ssh-0.70.0
+[2022-01-25 23:52:57.868] [remoteagent] [info] Downloaded extension: ms-vscode-remote.remote-wsl /u/cstinson/.vscode-server/data/CachedExtensionVSIXs/ms-vscode-remote.remote-wsl-0.63.13
+[2022-01-25 23:52:57.873] [remoteagent] [info] Downloaded extension: ms-vscode.cmake-tools /u/cstinson/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cmake-tools-1.9.2
+[2022-01-25 23:52:57.947] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools-themes /u/cstinson/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-themes-1.0.0
+[2022-01-25 23:52:58.028] [remoteagent] [info] Downloaded extension: jeff-hykin.better-cpp-syntax /u/cstinson/.vscode-server/data/CachedExtensionVSIXs/jeff-hykin.better-cpp-syntax-1.15.10
+[2022-01-25 23:52:58.036] [remoteagent] [info] Downloaded extension: twxs.cmake /u/cstinson/.vscode-server/data/CachedExtensionVSIXs/twxs.cmake-0.0.17
+[2022-01-25 23:52:58.047] [remoteagent] [info] Downloaded extension: cschlosser.doxdocgen /u/cstinson/.vscode-server/data/CachedExtensionVSIXs/cschlosser.doxdocgen-1.3.2
+[2022-01-25 23:52:58.125] [remoteagent] [info] Extracted extension to /u/cstinson/.vscode-server/extensions/.4848febb-584b-4229-a325-c7d0ec4a5de8: ms-vscode.cpptools-themes
+[2022-01-25 23:52:58.137] [remoteagent] [info] Downloaded extension: ms-vscode-remote.remote-containers /u/cstinson/.vscode-server/data/CachedExtensionVSIXs/ms-vscode-remote.remote-containers-0.209.6
+[2022-01-25 23:52:58.139] [remoteagent] [info] Renamed to /u/cstinson/.vscode-server/extensions/ms-vscode.cpptools-themes-1.0.0
+[2022-01-25 23:52:58.143] [remoteagent] [info] Extracting completed. ms-vscode.cpptools-themes
+[2022-01-25 23:52:58.239] [remoteagent] [info] Extracted extension to /u/cstinson/.vscode-server/extensions/.f4cff0f9-bb89-4637-870d-b90d8c0c929a: jeff-hykin.better-cpp-syntax
+[2022-01-25 23:52:58.248] [remoteagent] [info] Renamed to /u/cstinson/.vscode-server/extensions/jeff-hykin.better-cpp-syntax-1.15.10
+[2022-01-25 23:52:58.251] [remoteagent] [info] Extracting completed. jeff-hykin.better-cpp-syntax
+[2022-01-25 23:52:58.573] [remoteagent] [info] Extracted extension to /u/cstinson/.vscode-server/extensions/.5048129c-3416-4959-bc75-b4c55619741f: ms-vscode-remote.remote-wsl
+[2022-01-25 23:52:58.593] [remoteagent] [info] Renamed to /u/cstinson/.vscode-server/extensions/ms-vscode-remote.remote-wsl-0.63.13
+[2022-01-25 23:52:58.598] [remoteagent] [info] Extracting completed. ms-vscode-remote.remote-wsl
+[2022-01-25 23:52:58.686] [remoteagent] [info] Extracted extension to /u/cstinson/.vscode-server/extensions/.268ef7db-27a1-4389-8e8a-5b245010ea9e: ms-vscode-remote.remote-ssh
+[2022-01-25 23:52:58.700] [remoteagent] [info] Renamed to /u/cstinson/.vscode-server/extensions/ms-vscode-remote.remote-ssh-0.70.0
+[2022-01-25 23:52:58.705] [remoteagent] [info] Extracting completed. ms-vscode-remote.remote-ssh
+[2022-01-25 23:52:58.839] [remoteagent] [info] Extracted extension to /u/cstinson/.vscode-server/extensions/.3414c961-1bce-4c43-a5cd-35a5ac98d8f9: twxs.cmake
+[2022-01-25 23:52:58.845] [remoteagent] [info] Renamed to /u/cstinson/.vscode-server/extensions/twxs.cmake-0.0.17
+[2022-01-25 23:52:58.847] [remoteagent] [info] Extracting completed. twxs.cmake
+[2022-01-25 23:52:58.897] [remoteagent] [info] Extracted extension to /u/cstinson/.vscode-server/extensions/.9519c75a-a73f-4085-b395-becc9827f2a4: ms-vscode.cmake-tools
+[2022-01-25 23:52:58.904] [remoteagent] [info] Renamed to /u/cstinson/.vscode-server/extensions/ms-vscode.cmake-tools-1.9.2
+[2022-01-25 23:52:58.908] [remoteagent] [info] Extracting completed. ms-vscode.cmake-tools
+[2022-01-25 23:53:00.003] [remoteagent] [info] Extracted extension to /u/cstinson/.vscode-server/extensions/.74483a93-855f-4807-b200-1ab6639a024d: ms-vscode-remote.remote-containers
+[2022-01-25 23:53:00.009] [remoteagent] [info] Renamed to /u/cstinson/.vscode-server/extensions/ms-vscode-remote.remote-containers-0.209.6
+[2022-01-25 23:53:00.012] [remoteagent] [info] Extracting completed. ms-vscode-remote.remote-containers
+[2022-01-25 23:53:00.867] [remoteagent] [info] Extracted extension to /u/cstinson/.vscode-server/extensions/.815c5b63-511c-4ddf-9263-9d192df6a2e1: cschlosser.doxdocgen
+[2022-01-25 23:53:00.877] [remoteagent] [info] Renamed to /u/cstinson/.vscode-server/extensions/cschlosser.doxdocgen-1.3.2
+[2022-01-25 23:53:00.882] [remoteagent] [info] Extracting completed. cschlosser.doxdocgen
+[2022-01-25 23:53:01.061] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools-extension-pack /u/cstinson/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-extension-pack-1.1.0
+[2022-01-25 23:53:01.102] [remoteagent] [info] Extracted extension to /u/cstinson/.vscode-server/extensions/.4437efcd-08a2-4ac6-90b2-476cf891a2e6: ms-vscode.cpptools-extension-pack
+[2022-01-25 23:53:01.111] [remoteagent] [info] Renamed to /u/cstinson/.vscode-server/extensions/ms-vscode.cpptools-extension-pack-1.1.0
+[2022-01-25 23:53:01.115] [remoteagent] [info] Extracting completed. ms-vscode.cpptools-extension-pack
+[2022-01-25 23:53:01.116] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools-themes
+[2022-01-25 23:53:01.117] [remoteagent] [info] Extension installed successfully: jeff-hykin.better-cpp-syntax
+[2022-01-25 23:53:01.118] [remoteagent] [info] Extension installed successfully: ms-vscode-remote.remote-wsl
+[2022-01-25 23:53:01.119] [remoteagent] [info] Extension installed successfully: ms-vscode-remote.remote-ssh
+[2022-01-25 23:53:01.120] [remoteagent] [info] Extension installed successfully: twxs.cmake
+[2022-01-25 23:53:01.121] [remoteagent] [info] Extension installed successfully: ms-vscode.cmake-tools
+[2022-01-25 23:53:01.122] [remoteagent] [info] Extension installed successfully: ms-vscode-remote.remote-containers
+[2022-01-25 23:53:01.123] [remoteagent] [info] Extension installed successfully: cschlosser.doxdocgen
+[2022-01-25 23:53:01.124] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools-extension-pack
+[2022-01-26 00:02:27.150] [remoteagent] [info] [127.0.0.1][b901518d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-01-26 00:02:27.171] [remoteagent] [info] [127.0.0.1][744186e6][ExtensionHostConnection] <4914> Extension Host Process exited with code: 0, signal: null.
+[2022-01-26 00:02:27.171] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-01-26 00:07:27.173] [remoteagent] [info] Last EH closed, shutting down

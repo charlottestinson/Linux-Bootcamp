@@ -214,3 +214,35 @@ add .
 git add .
 flds
 ksadfkshkjhkjafs
+git branch -M main
+git push -u origin main
+git remote -v
+git add --all
+git commit -m "Test commit"
+get push -u origin main
+git push -u origin main
+git push
+git commit -m 'test'
+git commit -a -m 'test'
+git push
+git push origin master
+history
+push --set-upstream origin master
+git pish --set-upstream origin master
+git push --set-upstream origin master
+git remote add origin git@github.com:charlottestinson/Linux-Bootcamp.git
+push origin
+git push origin
+git commit
+git push origin/main
+git push origin
+git brandch -m master
+git branch -m master
+git commit "partB complete"
+git commit -m "partB complete"
+git add >
+git add .
+git commit "parB complete
+
+
+

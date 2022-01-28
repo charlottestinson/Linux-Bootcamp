@@ -70,3 +70,5 @@ Cancelling previous shutdown timeout
 [20:15:33] [127.0.0.1][3715bfec][ExtensionHostConnection] New connection established.
 [20:15:33] [127.0.0.1][3715bfec][ExtensionHostConnection] <14972> Launched Extension Host Process.
 [IPC Library: Pty Host]  INFO Persistent process "22": Replaying 1842 chars and 1 size events
+New EH opened, aborting shutdown
+[20:20:33] New EH opened, aborting shutdown
